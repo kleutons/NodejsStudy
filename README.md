@@ -4,4 +4,4 @@
 
 ## Conteúdos
 4. [CommonJS Modules](./04-CommonjsModules)
-5. [ECMA Modules](./05-ECMAModules)
+5. [ECMA Modules](./05-ECMModules)

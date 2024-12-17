@@ -1,3 +1,5 @@
+### [< Voltar para o Início](../)
+
 # Principais Tipos de Requisições HTTP
 <img src="./docs/requestHttp.png" alt="API" title="API" style="max-width: 800px;">
 

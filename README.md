@@ -6,6 +6,7 @@
 
 ## Conteúdos
 0. RESUMO EM README
+   - [CommonJS vs ECMAScript Modules](./00-RESUMO/CommonJSvsECM.md)
    - [O Que é uma API](./00-RESUMO/API.md)
    - [Requisições HTTP](./00-RESUMO/HTTP-Requisições.md)
    - [Principais Status Codes do HTTP](./00-RESUMO/HTTP-StatusCode.md)

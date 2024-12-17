@@ -1,3 +1,5 @@
+### [< Voltar para o Início](../)
+
 # API
 <img src="./docs/api.webp" alt="API" title="API" style="max-width: 500px;">
 

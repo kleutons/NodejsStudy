@@ -1,4 +1,4 @@
-### [< Voltar para o Início](../)
+### [< Voltar para o Início](./)
 
 # CommonJS vs ECMAScript Modules (ESM)
 <img src="./docs/commonjs-vs-esm.png" alt="API" title="API" style="max-width: 800px;">

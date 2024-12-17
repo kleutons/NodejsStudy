@@ -4,7 +4,7 @@
 <img src="./docs/tsNpm.png" alt="API" title="API" style="max-width: 700px;">
 
 
-## 🟦 Comandos NPM para Node.js
+## 🟥 Comandos NPM para Node.js
 - Inicializa um Projeto Node.js
   ```bash
   npm init -y
@@ -32,7 +32,7 @@
   npm run <nome-do-script>
   ```
 
-## 🟩 Configurações e Comandos do TypeScript
+## 🟦 Configurações e Comandos do TypeScript
 - Inicializa um Projeto Node.js com TypeScript (One Command)
   ```bash
   npm init -y -D typescript
@@ -80,6 +80,8 @@
   - **strict** : Ativa todas as verificações de tipo estritas.
   - **esModuleInterop** : Habilita compatibilidade entre módulos CommonJS e ES6.
   - **skipLibCheck** : Pula a verificação de tipo dos arquivos de declaração.
+  - **include** : Especifica os arquivos que devem ser incluídos no processo de compilação do TypeScript.
+  - **exclude** : Especifica os arquivos e diretórios que devem ser excluídos do processo de compilação.
 
 ## 📜 Outros Comandos npm Importantes
 - Instalar Pacotes

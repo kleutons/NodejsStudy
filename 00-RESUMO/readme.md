@@ -4,7 +4,7 @@
 
 ## Conteúdos
 1. [Comandos NPM & TypeScript](./Npm.md)
-2. [CommonJS vs ECMAScript Modules](./00-RESUMO/CommonJSvsECM.md)
-3. [O Que é uma API](./00-RESUMO/API.md)
-4. [Requisições HTTP](./00-RESUMO/HTTP-Requisições.md)
-5. [Principais Status Codes do HTTP](./00-RESUMO/HTTP-StatusCode.md)
+2. [CommonJS vs ECMAScript Modules](./CommonJSvsECM.md)
+3. [O Que é uma API](./API.md)
+4. [Requisições HTTP](./HTTP-Requisições.md)
+5. [Principais Status Codes do HTTP](./HTTP-StatusCode.md)

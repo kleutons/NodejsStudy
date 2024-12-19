@@ -101,6 +101,14 @@
   ```bash
   npm update
   ```
+- Para atualizar todas as dependências listadas no seu package.json para a versão mais recente estável.
+  ```bash
+  npx npm-check-updates -u
+  npm install
+
+  ```
+
+
 - Remover Pacotes
   ```bash
   npm uninstall
